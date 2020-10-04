@@ -8,3 +8,6 @@ Terimakasih yang sudah berkontribusi di repositori saya ini, dan berikut merupak
 <table>
   <tr>
     <td align="center"><a href="https://github.com/herman487"><img src="https://avatars2.githubusercontent.com/u/72329908?s=460&v=4" width="120px;" alt=""/><br /><sub><b>Herman</b></sub></a><br /><a href="#maintenance-herman487" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/willy312"><img src="https://avatars1.githubusercontent.com/u/72329968?s=96&v=4" width="120px;" alt=""/><br /><sub><b>Willy</b></sub></a><br /><a href="#maintenance-willy312" title="Maintenance">🚧</a></td>
+  </tr>
+  </table>
